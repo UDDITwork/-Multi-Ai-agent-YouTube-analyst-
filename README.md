@@ -199,13 +199,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Made with ❤️ by [Your Name]
 
 </div>
-![unnamed](https://github.com/user-attachments/assets/7d2ae2da-952b-4040-891e-fc2a1d3e3985)
-![unnamed (1)](https://github.com/user-attachments/assets/a728ea3e-2838-4572-b8a0-84634eb33cd9)
-![unnamed (2)](https://github.com/user-attachments/assets/93182b34-bf9e-4250-b8b5-6c2a82f6d053)
-![unnamed (3)](https://github.com/user-attachments/assets/4b8c7f05-6027-466c-95bc-410760ae8da1)
-![unnamed (4)](https://github.com/user-attachments/assets/0ff22903-fc74-4338-bc80-231ae15502f0)
-![unnamed (5)](https://github.com/user-attachments/assets/f5427c49-514c-4baa-b0f8-017720df85ec)
-![unnamed (6)](https://github.com/user-attachments/assets/44872353-1d23-4eff-967e-3f871f246563)
-![unnamed (7)](https://github.com/user-attachments/assets/09b17395-fe37-4064-8579-0dbd4c1a21da)
-![unnamed](https://github.com/user-attachments/assets/345204f2-066a-4e7c-abe3-bd3272c1f296)
-![unnamed (1)](https://github.com/user-attachments/assets/4626b89b-07fa-484e-a1e0-9f3b74acf987)
+![Screenshot 2025-02-02 113358](https://github.com/user-attachments/assets/42ceb7f5-34b7-4d76-9801-771dcfbce3c7)
+![Screenshot 2025-02-02 113333](https://github.com/user-attachments/assets/16c1bb1b-ca14-4caa-82d4-6fc32f1dcd6e)
+![Screenshot 2025-02-02 113313](https://github.com/user-attachments/assets/c64ee6fb-649d-411c-9761-efe457d394b2)
+![Screenshot 2025-02-02 113246](https://github.com/user-attachments/assets/fcd16589-86ea-4c3f-af0d-9a8a85ab6bb5)
+![Screenshot 2025-02-02 113148](https://github.com/user-attachments/assets/2247f629-3ee2-4d02-91e8-f5c491b4c50c)
+![Screenshot 2025-02-02 113128](https://github.com/user-attachments/assets/8443d614-0c8c-41b7-8754-1f0c6ae4ca2c)
+![Screenshot 2025-02-02 113110](https://github.com/user-attachments/assets/bd1fe09d-3e4f-4fb2-959c-6f115011e3ec)
+![Screenshot 2025-02-02 113044](https://github.com/user-attachments/assets/81c8d2d2-c716-4812-a53c-50480d99a482)
