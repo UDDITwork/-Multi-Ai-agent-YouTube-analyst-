@@ -4,7 +4,7 @@
 
 ![YouTube Analysis Animation](https://raw.githubusercontent.com/your-repo/path/to/youtube-analysis.gif)
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/youtube-analyst?style=social)](https://github.com/your-username/youtube-analyst)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/youtube-analyst?style=social)](https://github.com/UDDITwork/-Multi-Ai-agent-YouTube-analyst-)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -196,14 +196,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.youtube-analyst)
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by UDDIT 
 
 </div>
-![Screenshot 2025-02-02 113358](https://github.com/user-attachments/assets/42ceb7f5-34b7-4d76-9801-771dcfbce3c7)
-![Screenshot 2025-02-02 113333](https://github.com/user-attachments/assets/16c1bb1b-ca14-4caa-82d4-6fc32f1dcd6e)
-![Screenshot 2025-02-02 113313](https://github.com/user-attachments/assets/c64ee6fb-649d-411c-9761-efe457d394b2)
-![Screenshot 2025-02-02 113246](https://github.com/user-attachments/assets/fcd16589-86ea-4c3f-af0d-9a8a85ab6bb5)
-![Screenshot 2025-02-02 113148](https://github.com/user-attachments/assets/2247f629-3ee2-4d02-91e8-f5c491b4c50c)
-![Screenshot 2025-02-02 113128](https://github.com/user-attachments/assets/8443d614-0c8c-41b7-8754-1f0c6ae4ca2c)
-![Screenshot 2025-02-02 113110](https://github.com/user-attachments/assets/bd1fe09d-3e4f-4fb2-959c-6f115011e3ec)
-![Screenshot 2025-02-02 113044](https://github.com/user-attachments/assets/81c8d2d2-c716-4812-a53c-50480d99a482)
